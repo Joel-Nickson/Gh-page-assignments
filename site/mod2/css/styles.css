@@ -23,7 +23,7 @@ h1 {
   font-family: Helvetica;
   color: black;
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 .inner_box{
 	float: right; 	
@@ -59,19 +59,17 @@ h1 {
   .col-lg-4 {
     width: 33.33%;
   }
-  .col-lg-6 {
-    width: 50%;
-  }
 }
 
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) { .col-md-4,.col-md-6 {
     float: left;
   }
-  .col-md-4 {
-    width: 33.33%;
-  }
   .col-md-6 {
     width: 50%;
+  }
+  .col-md-12 {
+    width: 100%;
+    clear: both;
   }
 }
