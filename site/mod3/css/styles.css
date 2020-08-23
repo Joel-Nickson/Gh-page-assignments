@@ -1,0 +1,89 @@
+*{
+	width: 100%;
+}
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen' , serif;
+}
+/**HEADER**/
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	min-height:80px;
+}
+.navbar-brand {
+	padding-top: -5px;
+	width: 100px
+}
+.navbar-brand h1{ /*my name*/
+	text-shadow: 4 4 4 #222;
+	color: #0b6;
+	line-height: .75;
+	margin: 5px auto 0px 50px;
+	width:100px;
+	float: left;
+}
+.navbar-brand a:hover , .navbar-brand a:focus{ /*my name*/
+	text-decoration: none;
+}
+.p {
+  border: 1px solid black;
+  background-color: #aaa;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.inner_box{
+	text-align: center;
+	font-size: 125%;
+}
+#title{
+	text-align: center;
+	font-size:25px; 
+}
+button{
+	width: 40px;
+	float:right;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 8px;
+  margin: 4px 2px;
+  margin-bottom: : 0px;
+  cursor: pointer;
+}
+#nav-list{
+	margin-top: 0px;
+	text-align: center;
+}
+ p{
+	height: 100px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+/********** Medium devices only **********/
+@media (min-width: 768px) and (max-width: 991px) { 
+  .col-md-12 {
+    width: 100%;
+    clear: both;
+  }
+}
