@@ -8,6 +8,10 @@ h1{
 	font-size: 50px;
 }
 p{
+	margin-top: 40;
 	font-size: 2em;
 	color: yellow;
+}
+span{
+	margin-left: 160px;
 }
