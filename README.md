@@ -1,5 +1,5 @@
-# Coursera-test
-Coursera test repository
+# Gh-pages over here
+Coursera test repository for Submitting Assignments
 
-tis is a test repo for git-hub-pages
+tis is a project repo for git-hub-pages
 https://joel-nickson.github.io/Coursera-test/
