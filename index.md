@@ -1,14 +1,12 @@
+## Assignments
 
+1- [Coursera week2 Assignment](https://joel-nickson.github.io/Coursera-test/site/mod2/)
 
-1- https://joel-nickson.github.io/Coursera-test/site/mod2/
+2- [Coursera week3 Assignment](https://joel-nickson.github.io/Coursera-test/site/mod3/)
 
-2- https://joel-nickson.github.io/Coursera-test/site/mod3/
+3- [Coursera week4 Assignment](https://joel-nickson.github.io/Coursera-test/site/mod4/)
 
-3- https://joel-nickson.github.io/Coursera-test/site/mod4/
-
-4- https://joel-nickson.github.io/Coursera-test/site/mod5/
-
-
+4- [Coursera week5 Assignment](https://joel-nickson.github.io/Coursera-test/site/mod5/)
 
 ## Welcome to GitHub Pages
 
