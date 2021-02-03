@@ -1,3 +1,12 @@
+
+
+1- https://joel-nickson.github.io/Coursera-test/site/mod2/
+2- https://joel-nickson.github.io/Coursera-test/site/mod3/
+3- https://joel-nickson.github.io/Coursera-test/site/mod4/
+4- https://joel-nickson.github.io/Coursera-test/site/mod5/
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Joel-Nickson/Coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
